@@ -1,6 +1,10 @@
-<div align = center> # 💫 Hey, I'm Disha Jain:
-**I am a Computer Science student at MIT Manipal, India.**
-</div>
+<p align="center">
+
+# 💫 Hey, I'm Disha Jain
+
+### I am a Computer Science student at MANIT Bhopal, India.
+
+</p>
 
 🦉 Most of my projects are in the MERN stack, but i have also dabbled into Chatbot Development<br>🌱 I’m currently learning Swift Programming and strengthening my DSA skills.<br>
 
@@ -18,5 +22,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dishajain18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=dishajain18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![](https://visitcount.itsvg.in/api?id=dishajain18&icon=0&color=0)](https://visitcount.itsvg.in)
