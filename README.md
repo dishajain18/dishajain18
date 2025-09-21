@@ -1,10 +1,10 @@
-<p align="center">
+<div align="center">
 
-# 💫 Hey, I'm Disha Jain
+<h1>💫 Hey, I'm Disha Jain</h1>
 
-### I am a Computer Science student at MANIT Bhopal, India.
+<h3><b>I am a Computer Science student at Manipal Institute of Technology, India.</b></h3>
 
-</p>
+</div>
 
 🦉 Most of my projects are in the MERN stack, but i have also dabbled into Chatbot Development<br>🌱 I’m currently learning Swift Programming and strengthening my DSA skills.<br>
 
